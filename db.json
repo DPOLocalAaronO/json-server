@@ -1,11 +1,20 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "pageViews" : [
+	{
+	  date: 'June 2018',
+	  count: 300
+	},
+	{
+		date: 'July 2018',
+		count: 350
+	},
+	{
+		date: 'August 2018',
+		count: 326
+	},
+	{
+		date: 'September 2018',
+		count: 395
+	}
+  ]
 }
